@@ -1,0 +1,1 @@
+Folder to store predicted images during validation
